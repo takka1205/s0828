@@ -1,4 +1,4 @@
 git add .
-git commit -m "Fix Prisma Client generation for Vercel8"
+git commit -m "Fix Prisma Client generation for Vercel9"
 git push
 
